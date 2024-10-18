@@ -109,7 +109,7 @@ mm.add("(min-width:500px)",()=>{
     scrollTrigger:{
       trigger:".page2",
       scroller:"body",
-      markers:"true",
+
       start:"top 0%",
       end:"top -100%",
       scrub:2,
@@ -204,7 +204,7 @@ function textanimation(){
          scrollTrigger:{
             trigger:".section-3",
             scroller:"body",
-            markers:false,
+            
            
             start:"top 50%",
             end:"top 20%",
@@ -222,7 +222,7 @@ function textanimation(){
         scrollTrigger:{
            trigger:".section-3",
            scroller:"body",
-           markers:true,
+           
            start:"top 50%",
            end:"top 20%",
            scrub:2
