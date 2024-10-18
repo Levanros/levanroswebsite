@@ -403,6 +403,8 @@
      
 
      @media (max-width:500px){
+         .page2{
+             display:none;
         .logo{
            height: 60px;
            width: 60px;
@@ -571,8 +573,6 @@
        
 
     }
-    .page2{
-        display: none;
-    }
+    
 
      }
